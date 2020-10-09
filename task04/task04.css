@@ -1,0 +1,28 @@
+
+.div1{
+    height: 200px;
+    width: 400px;
+    background-color: #cccccc;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.div2{
+    height: 50px;
+    width: 50px;
+    border-radius:100% 0 0 0;
+    background-color:#fc0;
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin: 50px 0 0 150px;
+}
+.div3{
+    height: 50px;
+    width: 50px;
+    border-radius:0 0 100% 0;
+    background-color:#fc0;
+    position: absolute;
+}
